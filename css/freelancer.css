@@ -75,7 +75,8 @@ section {
 
 section.success {
   color: white;
-  background: #18BC9C; }
+  background: #18BC9C;
+  margin: 0 center; }
 
 @media (max-width: 767px) {
   section {
