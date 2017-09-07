@@ -75,8 +75,7 @@ section {
 
 section.success {
   color: white;
-  background: #18BC9C;
-  margin: 0 center; }
+  background: #18BC9C; }
 
 @media (max-width: 767px) {
   section {
@@ -227,8 +226,7 @@ header.masthead {
 
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
-    margin: 0 0 30px;
-    margin: 0 auto; } }
+    margin: 0 0 30px; } }
 
 .portfolio-modal .modal-dialog {
   max-width: 100%;
